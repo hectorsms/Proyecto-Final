@@ -1,0 +1,42 @@
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.deps.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.runtimeconfig.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.AssemblyInfo.cs
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\refint\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.genruntimeconfig.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\ref\PROYECTO_APP-BusCar.DOMAIN.dll
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.deps.json
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.runtimeconfig.json
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.dll
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.pdb
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.csproj.AssemblyReference.cache
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.AssemblyInfoInputs.cache
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.AssemblyInfo.cs
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.csproj.CoreCompileInputs.cache
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.dll
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\refint\PROYECTO_APP-BusCar.DOMAIN.dll
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.pdb
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.genruntimeconfig.cache
+D:\temp\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\ref\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.deps.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.runtimeconfig.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\bin\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.AssemblyInfo.cs
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\refint\PROYECTO_APP-BusCar.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\PROYECTO_APP-BusCar.DOMAIN.genruntimeconfig.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\APP-BusCar\APP-BusCar\PROYECTO_APP-BusCar.DOMAIN\obj\Debug\net6.0\ref\PROYECTO_APP-BusCar.DOMAIN.dll

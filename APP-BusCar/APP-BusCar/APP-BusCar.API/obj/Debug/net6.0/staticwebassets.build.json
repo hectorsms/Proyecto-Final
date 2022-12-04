@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6EjGQYLuWvvoboeNffm7g+FmJ8Wf4WQkuBsmnueA7tc=",
+  "Source": "APP-BusCar.API",
+  "BasePath": "_content/APP-BusCar.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

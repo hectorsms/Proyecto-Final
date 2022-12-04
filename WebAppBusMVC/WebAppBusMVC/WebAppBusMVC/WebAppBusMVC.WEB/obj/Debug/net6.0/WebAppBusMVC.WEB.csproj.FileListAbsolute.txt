@@ -1,0 +1,964 @@
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.Development.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.staticwebassets.runtime.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.exe
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.deps.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.runtimeconfig.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.pdb
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Humanizer.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Common.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.AssemblyReference.cache
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfoInputs.cache
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfo.cs
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CoreCompileInputs.cache
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cache
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cs
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\bundle\WebAppBusMVC.WEB.styles.css
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\projectbundle\WebAppBusMVC.WEB.bundle.scp.css
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CopyComplete
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\refint\WebAppBusMVC.WEB.dll
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.pdb
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.genruntimeconfig.cache
+D:\DPA\DesarrolloWeb\Samples\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\ref\WebAppBusMVC.WEB.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.Development.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.staticwebassets.runtime.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.exe
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.deps.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.runtimeconfig.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.pdb
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Humanizer.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Common.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.AssemblyReference.cache
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfoInputs.cache
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfo.cs
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CoreCompileInputs.cache
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cache
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cs
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\bundle\WebAppBusMVC.WEB.styles.css
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\projectbundle\WebAppBusMVC.WEB.bundle.scp.css
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CopyComplete
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\refint\WebAppBusMVC.WEB.dll
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.pdb
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.genruntimeconfig.cache
+D:\BUSAPP\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\ref\WebAppBusMVC.WEB.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.Development.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.staticwebassets.runtime.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.exe
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.deps.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.runtimeconfig.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.pdb
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Humanizer.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Common.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.AssemblyReference.cache
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfoInputs.cache
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfo.cs
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CoreCompileInputs.cache
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cache
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cs
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\bundle\WebAppBusMVC.WEB.styles.css
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\projectbundle\WebAppBusMVC.WEB.bundle.scp.css
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CopyComplete
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\refint\WebAppBusMVC.WEB.dll
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.pdb
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.genruntimeconfig.cache
+D:\temp2\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\ref\WebAppBusMVC.WEB.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.staticwebassets.runtime.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.exe
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.deps.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.runtimeconfig.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\WebAppBusMVC.WEB.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.AssemblyReference.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfoInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.AssemblyInfo.cs
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.RazorAssemblyInfo.cs
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\bundle\WebAppBusMVC.WEB.styles.css
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\scopedcss\projectbundle\WebAppBusMVC.WEB.bundle.scp.css
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.csproj.CopyComplete
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\refint\WebAppBusMVC.WEB.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\WebAppBusMVC.WEB.genruntimeconfig.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\APPBUS_v3\APP-BusCar\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC\WebAppBusMVC.WEB\obj\Debug\net6.0\ref\WebAppBusMVC.WEB.dll

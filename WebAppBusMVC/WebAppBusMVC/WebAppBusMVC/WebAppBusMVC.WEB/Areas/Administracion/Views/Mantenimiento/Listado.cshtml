@@ -1,0 +1,53 @@
+﻿@using WebAppBusMVC.WEB.Models
+@{
+    var clientes = ViewBag.ListadoCliente as IEnumerable<ClienteCreateViewModel>;
+}
+<table id="tbListadoCliente" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Dni</th>
+            <th>N° Verificación</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>F. Nacimiento</th>
+            <th>Sexo</th>
+            <th>Telefono</th>
+            <th>Direccion</th>
+            <th>Estado</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in clientes)
+        {
+            <tr>
+                
+                <td>@item.Dni</td>
+                <td>@item.IdDocumento</td>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.FechaNacimiento</td>
+                <td>@item.Sexo</td>
+                <td>@item.Telefono</td>
+                <td>@item.Direccion</td>
+                <td>@item.Estado</td>
+                <td>
+                  
+                 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    loadDataTable();
+    function loadDataTable() {
+        let table = $("#tbListadoCliente").DataTable({
+            lengthChange: false,
+            buttons: ['copy', 'excel', 'pdf', 'colvis', 'print']
+        });
+        table.buttons().container()
+            .insertBefore("#tbListadoCliente_filter")
+    }
+</script>

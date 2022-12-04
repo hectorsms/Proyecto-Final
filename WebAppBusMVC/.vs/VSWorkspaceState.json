@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAppBusMVC",
+    "\\WebAppBusMVC\\WebAppBusMVC",
+    "\\WebAppBusMVC\\WebAppBusMVC\\WebAppBusMVC.WEB",
+    "\\WebAppBusMVC\\WebAppBusMVC\\WebAppBusMVC.WEB\\Areas",
+    "\\WebAppBusMVC\\WebAppBusMVC\\WebAppBusMVC.WEB\\Areas\\Ventas",
+    "\\WebAppBusMVC\\WebAppBusMVC\\WebAppBusMVC.WEB\\Areas\\Ventas\\Views",
+    "\\WebAppBusMVC\\WebAppBusMVC\\WebAppBusMVC.WEB\\Areas\\Ventas\\Views\\VentaBoleto"
+  ],
+  "SelectedNode": "\\WebAppBusMVC\\WebAppBusMVC\\WebAppBusMVC.WEB\\Areas\\Ventas\\Views\\VentaBoleto\\VentaBoletoPago.cshtml",
+  "PreviewInSolutionExplorer": false
+}

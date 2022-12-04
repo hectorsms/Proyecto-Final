@@ -1,0 +1,213 @@
+﻿<div class="alert alert-primary">
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Mantenimiento de Pasajeros</h3>
+        </div>
+        <div class="col-md-2">
+            <button id="btnAgregarCliente"
+                    class="btn btn-primary">
+                Agregar
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalRegistroCliente" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Mantenimiento de Clientes</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>DNI</label>
+                                <input type="number" class="form-control" id="txtDNI" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>Documento</label>
+                                <input type="text" class="form-control" id="txtIdDocumento" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Apellido</label>
+                                <input type="text" class="form-control" id="txtApellido" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>F. Nacimiento</label>
+                                <input type="date" class="form-control" id="txtFechaNacimiento" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Sexo</label>
+                                <input type="text" class="form-control" id="txtSexo" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Ruc</label>
+                                <input type="text" class="form-control" id="txtRUC" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Razon Social</label>
+                                <input type="text" class="form-control" id="txtRazonSocial" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Teléfono</label>
+                                <input type="number" class="form-control" id="txtTelefono" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Dirección</label>
+                                <input type="text" class="form-control" id="txtDireccion" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Estado</label>
+                                <input type="text" class="form-control" id="txtEstado" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Nombre</label>
+                                <input type="text" class="form-control" id="txtNombre" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Correo</label>
+                                <input type="text" class="form-control" id="txtcorreo" />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Apellido Materno</label>
+                                <input type="text" class="form-control" id="txtapellidoM" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnGuardarCliente">Guardar</button>
+                <input type="hidden" id="hidIdCliente" value="-1" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="divListadoCliente">
+</div>
+
+
+<script>
+
+
+    $("#divListadoCliente").on('click', '.btnEliminarCliente', function () {
+        let vIdCliente = $(this).attr('data-id');
+        if (confirm("¿Está seguro de eliminar al cliente?")) {
+            $.ajax({
+                type: "DELETE",
+                url: '@Url.Action("Eliminar","Bus", new {Area = "Administracion"})',
+                cache: false,
+                data: { id : vIdCliente },
+                success: function (exito) {
+                    if (exito) {
+                        CargarClientes();
+                    }
+                }
+            })
+        }
+    });
+
+
+    $("#btnGuardarCliente").click(function () {
+        let vIdCliente = $("#hidIdCliente").val();
+        let vDNI = $("#txtDNI").val();
+        let vNombre = $("#txtNombre").val();
+        let vApellido = $("#txtApellido").val();
+        let vFechaNacimiento = $("#txtFechaNacimiento").val();
+        let vRuc = $("#txtRUC").val();
+        let vRazonSocial = $("#txtRazonSocial").val();
+        let vSexo = $("#txtSexo").val();
+        let vTelefono = $("#txtTelefono").val();    
+        let vDireccion = $("#txtDireccion").val();
+        let vEstado = $("#txtEstado").val();
+        let vDocumento = $("#txtIdDocumento").val();
+        let vcorreo = $("#txtCorreo").val();
+        let vapellidom = $("#txtApellidom").val();
+        var myModal = new bootstrap.Modal(document.getElementById('modalRegistroCliente'))
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("Grabar","Bus", new {Area="Administracion"})',
+            cache: false,
+            data: {
+                id_cliente: vIdCliente,
+                dni: vDNI,
+                nombre: vNombre,
+                apellido: vApellido,
+                FechaNacimiento: vFechaNacimiento,
+                RUC: vRuc,
+                razon_social: vRazonSocial,
+                Sexo: vSexo,
+                Telefono: vTelefono,
+                Direccion: vDireccion,
+                Estado: vEstado,
+                id_documento: vDocumento,
+                correo: vcorreo,
+                apellidom: vapellidom
+            },
+            success: function (valorRespuesta) {
+                if (!valorRespuesta)
+                    alert("Ocurrió un error en el servidor...")
+                else {
+                    alert("Se registró correctamente......");
+                    CargarClientes();
+                    myModal.hide();
+                }
+            }, error: function () {
+                alert("Ocurrió un error en el servidor_1")
+            }
+        });
+    })
+
+
+    $("#btnAgregarCliente").click(function () {
+        var myModal = new bootstrap.Modal(document.getElementById('modalRegistroCliente'))
+        myModal.show()
+    })
+
+    CargarClientes();
+    function CargarClientes(){
+    $.ajax({
+        type: "GET",
+        url: '@Url.Action("Listado","Bus",new {Area = "Administracion"})',
+        cache:false,
+        success: function(dataHTML){
+                $("#divListadoCliente").html(dataHTML);
+        }
+    });
+   
+    }
+</script>

@@ -1,0 +1,59 @@
+﻿@using WebAppBusMVC.WEB.Models
+@{
+	var programacionViaje = ViewBag.ListaProgramacionViaje as IEnumerable<OutProgramacionViajeViewModel>;
+	var programacionUno = programacionViaje.Where(z => z.IdNivel == 1).ToList();
+
+}
+
+
+<table id="tbListadoProgramacionRetorno" class="table table-striped">
+	<thead>
+		@if (programacionUno.Count>0)
+        {
+		<tr>
+			<th>Seleccionar</th>
+			<th>Salida</th>
+			<th>Asientos</th>
+			<th>Precio</th>			
+		</tr>
+		}
+	</thead>
+	<tbody>
+		 @foreach (var item in programacionUno)
+		 {
+			var programacionDos = programacionViaje.Where(z => z.IdProgramacion == item.IdProgramacion).ToList(); 
+		<tr>
+			<td>
+				<input type="radio" id="id@item.RankNro" name="IdProgramacionRetorno" value="@item.IdProgramacion">
+			</td>
+			<td>
+				<input type="text"  name="horaRetorno" id="horaRetorno" value="@item.Hora" />
+			</td>
+			
+			<td>
+				@foreach (var item2 in programacionDos)
+				{ 
+					<p style="margin-bottom: 2px;">
+						<span class="label">
+							<span >@item2.NombreNivel (@item2.NroAsientoLibre Libres)</span>
+						</span>
+					</P>
+				}
+			</td>	
+
+			<td>
+				@foreach (var item2 in programacionDos)
+				{ 
+					<p style="margin-bottom: 2px;">
+						<span class="label">
+							<span >Minimo: S/. @item2.CostoMinimo | Maximo: S/. @item2.CostoMaximo </span>
+						</span>
+					</P>
+				}
+			</td>
+
+		</tr>
+		}
+	</tbody>
+
+</table>

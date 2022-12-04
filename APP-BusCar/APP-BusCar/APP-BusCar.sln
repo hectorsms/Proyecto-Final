@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP-BusCar.API", "APP-BusCar.API\APP-BusCar.API.csproj", "{F49A378D-A9B9-4B5C-B3BC-A8490D688F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROYECTO_APP-BusCar.DOMAIN", "PROYECTO_APP-BusCar.DOMAIN\PROYECTO_APP-BusCar.DOMAIN.csproj", "{C59CE425-D5CF-48BF-8101-C2FEAD9A2795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49A378D-A9B9-4B5C-B3BC-A8490D688F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49A378D-A9B9-4B5C-B3BC-A8490D688F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49A378D-A9B9-4B5C-B3BC-A8490D688F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49A378D-A9B9-4B5C-B3BC-A8490D688F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59CE425-D5CF-48BF-8101-C2FEAD9A2795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59CE425-D5CF-48BF-8101-C2FEAD9A2795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59CE425-D5CF-48BF-8101-C2FEAD9A2795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59CE425-D5CF-48BF-8101-C2FEAD9A2795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7586AD65-69E3-4B0C-A9BC-F6625E3F2390}
+	EndGlobalSection
+EndGlobal

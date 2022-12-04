@@ -1,0 +1,149 @@
+﻿@using WebAppBusMVC.WEB.Models
+@{
+
+	Viaje viajeSession = Context.Session.GetObject<Viaje>("SESSIONVIAJE");
+	var listPasajeros =  ViewBag.ListaPasajeros as List<PasajeroViewModel>;
+	decimal CostoTotal = 0;
+}
+
+<div style="padding-left: 0px;" class="col-sm-7 " align="center">            
+	<div class="row">                                              
+				<div class="col-md-12">
+					<h3>IDA: [@viajeSession.NombreViajeIda - @viajeSession.NombreViajeRetorno]</h3>                        
+				</div>
+				<div class="col-md-12">
+					<h5>@viajeSession.FechaNombreIda - HORA: @viajeSession.horaIda</h5>					
+				<table class="table table-striped">                                
+					<thead>                                    
+						<tr>                                        							                                     
+							<th>Pasajero</th>                                        
+							<th class="text-right">N° Asiento</th>                                        
+							<th class="text-right">Precio</th>                                    
+						</tr>                                
+					</thead>                                
+				<tbody id="tablaDetalleAsientosIda">                                                                        
+					
+						@foreach (var item in listPasajeros)
+						 {
+							if (item.NumDoc.Trim() != "")
+							{
+							CostoTotal += item.CostoAsiento;
+							<tr>
+								<td> @item.Nombres @item.ApellidoPaterno @item.ApellidoMaterno </td>							 
+								<td class="text-right"><div class="asiento-resumen-venta-form">@item.NumeroAsiento</div>  </td>
+								<td class="text-right"><label class=" precio-normal ">S/.@item.CostoAsiento</label> </td>
+							</tr>
+							}
+						}
+
+					
+
+				</tbody>                            
+				</table>                        
+             
+				</div>                                               
+				<div class="col-xs-12">                                       							
+						<h5 class="pull-left" style="font-size:30px; padding-left: 50px">Total:S/.@CostoTotal</h5>						                                                         							
+				</div>                    
+				</div>        
+				</div>
+
+<div style="padding-right: 0px;" class="col-sm-5">            
+			<div class="row">                        
+				<div class="col-xs-12">                                               
+					<div class="panel panel-success" style="margin-bottom: 0px;">                                
+						<div class="panel-heading panel-headingk">                                    
+							<h3 class="panel-title panel-titlek">DATOS DEL PAGADOR</h3>                               
+						</div>                                
+						<div class="panel-body panel-bodyk margenesk ">                                    
+							<div class="row">                                        
+								<div class="form-group col-md-6 form-dato-pagador ceromarbottom">                                            
+									<label class="margeneslb" for="idTipoDocumento">Tipo Documento*</label>                                            
+									<select class="form-control mayuscula input-sm sel-tipo-doc" id="idTipoDocumento" placeholder="Tipo Documento">                                                                                                
+										<option data-length="8" value="1">DNI</option>                                                                                                
+										<option data-length="9" value="2">CARNET DE EXTRANJERIA</option>                                                                                                
+										<option data-length="12" value="3">PASAPORTE</option>                                                                                            
+									</select>                                        
+								</div>                                        
+								<div class="form-group col-md-6 form-dato-pagador ceromarbottom">                                            
+									<label class="margeneslb" for="nuDocumento">N°Documento*</label>                                            
+									<input maxlength="9" type="text" class="form-control mayuscula input-sm find-doc" id="nuDocumento" value="" placeholder="N°Documento">                                            
+									<span class="help-block"></span>                                        
+									
+								</div>                                   
+							</div>                                    
+							<div class="row">                                                                         
+								<div class="form-group  col-md-6 form-dato-pagador ceromarbottom">                                            
+									<label class="margeneslb" for="noPersona">Nombres*</label>                                            
+									<input type="text" class="form-control mayuscula input-sm" id="noPersona" value="" placeholder="Nombres">                                            									
+								</div>                                         
+							<div class="form-group  col-md-6 form-dato-pagador ceromarbottom">                                           
+								<label class="margeneslb" for="idTipoDocumento">Apellido Paterno*</label>                                           
+								<input type="text" class="form-control mayuscula input-sm " id="apPersona" value="" placeholder="Apellido Paterno">                                           
+								<span class="help-block"></span>                                       
+							</div>                                       
+							<div class="form-group  col-md-6 form-dato-pagador ceromarbottom">                                            
+								<label class="margeneslb" for="nuDocumento">Apellido Materno*</label>                                            
+								<input type="text" class="form-control mayuscula input-sm" id="amPersona" value="" placeholder="Apellido Materno">                                            
+							</div>                                        
+							<div class="form-group col-md-6 form-dato-pagador">                                            
+								<label class="margeneslb" for="deSexo">Sexo*</label>                                            
+								<select class="form-control mayuscula input-sm" id="deSexo">                                                
+									<option value="M">Masculino</option>                                                
+									<option value="F">Femenino</option>                                            
+								</select>                                                       
+							</div>                                    
+							</div>                                   
+							<div class="row">                                        
+								<div class="form-group col-md-6 form-dato-pagador ceromarbottom">                                            
+									<label class="margeneslb" for="deTelefono">Telefono*</label>                                            
+									<input type="text" onkeypress="return soloNumeros(event);" class="form-control mayuscula input-sm" id="deTelefono" value="" placeholder="Teléfono">                                            
+								</div>                                        
+							<div class="form-group col-md-6 form-dato-pagador ceromarbottom">                                            
+								<label class="margeneslb" for="deEmail">Email*</label>                                            
+								<input type="text" class="form-control input-sm" id="deEmail" value="" placeholder="Email">                                            
+							</div>                                    
+							</div>                                    
+							<div class="row">                                            
+								<div class="form-group col-md-6 form-dato-pagador ceromarbottom">                                            
+									<label class="margeneslb" for="feNacimiento">Fecha Nacimiento*</label>                                            
+									<input type="text" class="datepicker form-control input-sm  hasDatepicker" style="font-weight: 500;" placeholder="Fecha Nacimiento" id="feNacimiento" value="">                                            
+								</div>                                    
+							</div>                               
+							</div>                            
+							</div>                        
+							</div>                    
+							</div>                   
+
+							<div class="row">                        
+								<div class="col-md-12 col-xs-12" style="margin-bottom: 5px;">                            
+									<label class="checkbox-inline" style="font-size: 10px; padding:27px">                                
+										<input id="check-terminos" type="checkbox"> 
+										<p class="checkbox-inline" style="color: #e28307;">*Al hacer click, confirma y acepta haber leído los Términos de uso, Protección de datos y Requisitos para viajar.</p>                                
+										<br>                                
+										<input id="check-confirmation" type="checkbox"> 
+										<p style="text-align: justify;">De acuerdo al DS N° 108-2022-PCM, desde el 29 de agosto, para ingresar a las agencias y/o abordar el bus, los mayores de 12 años deben acreditar sus dosis completas de vacunación (3 dosis), en caso se  encuentre habilitada para recibirla según protocolo vigente, o en su defecto presentar una prueba molecular negativa con fecha de resultado no mayor a 48 horas.</p>                        
+									</label>
+								</div>                        
+								<div class="col-md-12 col-xs-12" style="margin-bottom: 5px;">                                                    
+								</div>
+
+				<div class="col-12">
+					<div class="row">
+						<div class="col-md-6">
+							<button class="btn btn-primary float-start" type="submit" onclick="location.href='@Url.Action("VentaBoleto", "VentaBoleto")'">
+								PAGAR
+							</button>
+						</div>
+
+						<div class="col-md-6">
+							<button class="btn btn-primary float-end" type="button" onclick="location.href='@Url.Action("VentaBoletoDatosPersonales", "VentaBoleto")'">ANTERIOR</button>
+						</div>
+					</div>
+
+				</div>
+								                  
+
+					</div>       
+				</div>
+

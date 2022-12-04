@@ -1,0 +1,166 @@
+﻿@using WebAppBusMVC.WEB.Models
+@{
+    var destinos = ViewBag.ListaDestinos as IEnumerable<DestinoViewModel>;
+    var origenes = ViewBag.ListaOrigenes as IEnumerable<OrigenViewModel>;     
+    var dateToday = DateTime.Now.ToString("yyyy-MM-dd");
+
+    Viaje viajeSession = Context.Session.GetObject<Viaje>("SESSIONVIAJE");
+
+}
+
+
+<div class="alert alert-primary">
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Hola, busca tu pasaje</h4>
+        </div>
+    </div>
+
+</div>
+
+<form class="row g-3 needs-validation"  method="post" action="@Url.Action("AñadirViaje", "VentaBoleto",new {Area="Ventas"})">
+
+    <div class="col-md-3">
+        <label for="idViajeIda" class="form-label">Origen</label>
+        <select class="form-control" name="idViajeIda" id="idViajeIda" onchange="ShowSelected();" required>
+            <option selected disabled value="">Seleccionar...</option>
+                @if (viajeSession == null)
+                {
+                    @foreach (var item in origenes)
+                    {
+                        <option value="@item.IdOrigen">@item.Ciudad </option>                    
+                    }
+                }
+                else
+                {
+                    @foreach (var item in origenes)
+                    {
+                        if (@item.IdOrigen == viajeSession.IdViajeIda)
+                        { 
+                            <option value="@item.IdOrigen" selected>@item.Ciudad </option>
+                        }
+                        else
+                        {
+                            <option value="@item.IdOrigen">@item.Ciudad </option>
+                        }                    
+                    }
+                }            
+            
+        </select>
+    </div>
+
+    <div class="col-md-3">
+        <label for="idViajeRetorno" class="form-label">Destino</label>
+        <select class="form-control" name="idViajeRetorno" id="idViajeRetorno" required>
+            <option selected disabled value="">Seleccionar...</option>
+            @if (viajeSession == null)
+                {
+                    @foreach (var item in destinos)
+                    {
+                        <option value="@item.IdDestino">@item.Ciudad</option>
+                    }
+                }
+            else
+                {
+                    @foreach (var item in destinos)
+                    {
+                        if (@item.IdDestino == viajeSession.IdViajeRetorno)
+                        {
+                            <option value="@item.IdDestino" selected>@item.Ciudad</option>
+                        }
+                        else 
+                        {
+                            <option value="@item.IdDestino" >@item.Ciudad</option>
+                        }
+                    }
+                }
+
+        </select>
+    </div>
+
+    <div class="col-md-3">
+        <label for="fechaIda" class="form-label">Fecha Ida</label>
+        @if (viajeSession == null)
+        {
+            <input type="date" name="fechaIda" class="form-control" id="fechaIda" value=@dateToday>
+        }
+        else 
+        {
+            <input type="date" name="fechaIda" class="form-control" id="fechaIda" value="@viajeSession.FechaIda">
+        }
+        
+    </div>
+
+    <div class="col-md-3">
+        <label for="fechaRetorno" class="form-label">Fecha Retorno(Opcional)</label>
+        @if (viajeSession == null)
+        {
+            <input type="date" name="fechaRetorno" class="form-control" id="fechaRetorno" value="">
+        }
+        else 
+        {
+            @if (viajeSession.FechaRetorno == "0001-01-01")
+            {
+                <input type="date" name="fechaRetorno" class="form-control" id="fechaRetorno" value="">
+            }
+            else 
+            {
+                <input type="date" name="fechaRetorno" class="form-control" id="fechaRetorno" value="@viajeSession.FechaRetorno">
+            }
+            
+        }
+
+        
+    </div>
+    <div>
+        <p> </p>
+
+        <button class="btn btn-primary btn-lg" id="btnBuscar" type="submit" >
+            BUSCAR
+        </button>
+
+
+    </div>
+                           
+</form>
+
+<div id="divListadoCliente">
+
+
+</div>
+
+
+
+@*<script>   
+
+    $("#btnBuscar").click(function () {
+        
+        let vIdViajeIda = $("#validationCustom03").val();
+        let vIdViajeRetorno = $("#validationCustom04").val();
+        let vFechaIda = $("#validationCustom01").val();
+        let vFechaRetorno = $("#validationCustom02").val();
+
+        $.ajax({
+            type: "GET",
+            url: '@Url.Action("AñadirViaje","VentaBoleto",new {Area="Ventas"})',
+            cache: false,
+            data: {
+                idViajeIda: vIdViajeIda,
+                idViajeRetorno: vIdViajeRetorno,
+                fechaIda: vFechaIda,
+                fechaRetorno: vFechaRetorno
+            },
+            success: function (ValorRespuesta) {
+                
+                
+            }, error: function () {
+                alert("Ocurrió un error en el servidor")
+            }
+
+        });
+
+    }
+
+</script>
+
+*@

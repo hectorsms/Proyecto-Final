@@ -1,0 +1,155 @@
+﻿
+@using WebAppBusMVC.WEB.Models
+@{
+
+	Viaje viajeSession = Context.Session.GetObject<Viaje>("SESSIONVIAJE");
+	var listAsientos = ViewBag.ListaAsientos as List<AsientoViewModel>;
+    var listPasajeros =  ViewBag.ListaPasajeros as List<PasajeroViewModel>;
+    var documentos = ViewBag.ListaDocumentos as IEnumerable<DocumentoViewModel>;
+
+}
+
+
+<form class="row g-3 needs-validation" method="post" action="@Url.Action("AñadirPasajeros", "VentaBoleto",new {Area="Ventas"})">
+
+    <div class="alert alert-primary">
+        <div class="row">
+            <div class="col-md-6">
+                <h4>PASAJEROS [@viajeSession.NombreViajeIda - @viajeSession.NombreViajeRetorno]</h4>
+            </div>
+            <div class="col-md-6">
+                <h4> @viajeSession.FechaNombreIda - HORA: @viajeSession.horaIda</h4>
+            </div>
+        </div>
+
+    </div>
+
+<div>
+
+    @foreach (var item in listAsientos)
+        {
+
+        var pasajero = listPasajeros.Where(x => x.NumeroAsiento == item.NumeroAsiento).FirstOrDefault();
+
+            if (pasajero is null)
+            { 
+               pasajero = listPasajeros.Where(x => x.NumeroAsiento == 0).FirstOrDefault();
+            }
+
+        <div  id="callout-inputgroup-text-input-only">         
+                <h4>Asiento:@item.NumeroAsiento</h4>
+                <input type="hidden" id="NumeroAsientoId" name="NumeroAsiento_@item.IdAsiento" value="@item.NumeroAsiento">
+                <input type="hidden" id="CostoAsientoId" name="CostoAsiento_@item.IdAsiento" value="@item.CostoAsiento">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label for="idTipoDocumento">Tipo Documento</label>
+                        <select class="form-control" name="TipDoc_@item.IdAsiento" id="idTipoDocumento-@item.IdAsiento" placeholder="Tipo Documento" >                                 
+                        @foreach (var itemDoc in documentos)
+                        {
+                             if (@itemDoc.IdDocumento == pasajero.TipDoc)
+                            {
+                                        <option value="@itemDoc.IdDocumento" selected>@itemDoc.Descripcion</option>
+                            }
+                            else
+                            {
+                                        <option value="@itemDoc.IdDocumento">@itemDoc.Descripcion</option>
+                            }                    
+                        }
+                        </select>            
+                     </div>
+                    <div class="col-md-4">
+                        <label  for="nuDocumento">N°Documento</label>
+                        <input type="text" class="form-control" name="NumDoc_@item.IdAsiento" id="nuDocumento-@item.IdAsiento" value="@pasajero.NumDoc" placeholder="N°Documento">
+                    </div>                    
+                </div>          
+                <div class="row">
+                    <div class="col-md-4">
+                        <label class="margeneslb" for="noPersona">Nombres</label>
+                        <input type="text" class="form-control" name="Nombres_@item.IdAsiento" id="noPersona-@item.IdAsiento" value="@pasajero.Nombres" placeholder="Nombres">
+                    </div>                    
+                    <div class="col-md-4">                
+                        <label class="margeneslb" for="apPersona">Apellido Paterno</label>
+                        <input type="text" class="form-control" name="ApellidoPaterno_@item.IdAsiento" id="apPersona-@item.IdAsiento" value="@pasajero.ApellidoPaterno" placeholder="Apellido Paterno">
+                    </div>            
+                    <div class="col-md-4">                
+                        <label class="margeneslb" for="amPersona">Apellido Materno</label>
+                        <input type="text" class="form-control" name="ApellidoMaterno_@item.IdAsiento" id="amPersona--@item.IdAsiento" value="@pasajero.ApellidoMaterno" placeholder="Apellido Materno">
+                    </div>                       
+                </div>          
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="margeneslb" for="deDireccionPasajero">Dirección (Pasajero)</label>
+                        <input type="text" class="form-control" name="Direccion_@item.IdAsiento" id="deDireccion-pasajero-@item.IdAsiento" value="@pasajero.Direccion" placeholder="Dirección">
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label class="margeneslb" for="deSexo">Sexo</label>
+                        <select class="form-control"  name="Sexo_@item.IdAsiento" id="deSexo-@item.IdAsiento">
+                            <option selected="false" value="F">Femenino</option>                    
+                            <option selected="false" value="M">Masculino</option>                
+                        </select>                            
+                        
+                    </div>
+                    <div class="col-md-4">
+                        <label class="margeneslb" for="feNacimiento">Fecha Nacimiento*</label>
+                        <input type="date" class="form-control"  name="FecNac_@item.IdAsiento" placeholder="Fecha Nacimiento" id="feNacimiento-@item.IdAsiento" value="@pasajero.FecNac">
+                    </div>            
+                 </div> 
+                 <div class="row">            
+                     <div class="col-md-6">                
+                         <label class="margeneslb" for="deTelefono">Teléfono*</label>
+                        <input type="number" class="form-control" name="Telefono_@item.IdAsiento" id="deTelefono-@item.IdAsiento" value="@pasajero.Telefono" placeholder="Teléfono">
+                    </div>
+                    <div class="col-md-6">
+                        <label class="margeneslb" for="deEmail">Email</label>
+                        <input type="email" class="form-control" name="Correo_@item.IdAsiento" id="deEmail-@item.IdAsiento" value="@pasajero.Correo" placeholder="Email">
+                    </div>            
+                  </div>                  
+                  <div class="row" >                       
+                      <div class="col-md-6">                
+                          <label class="margeneslb" for="nuRuc">N°RUC*</label>
+                        <input type="text" class="form-control" name="RUC_@item.IdAsiento" id="nuRuc-@item.IdAsiento" value="@pasajero.RUC" placeholder="Número de Ruc">
+                    </div>
+                    <div class="col-md-6">
+                        <label class="margeneslb" for="deRazonsocial">Razón social*</label>
+                        <input type="text" class="form-control" name="RazonSocial_@item.IdAsiento" id="deRazonsocial-@item.IdAsiento" value="@pasajero.RazonSocial" placeholder="Razón social">
+                    </div>    
+                   </div>
+                  <div class="row">
+                    <div class="col-md-12">
+                        <label class="margeneslb" for="deDireccionEmpresa">Dirección*</label>
+                        <input type="text" class="form-control" name="DireccionEmpresa_@item.IdAsiento" id="deDireccion-empresa-@item.IdAsiento" value="@pasajero.DireccionEmpresa" placeholder="Dirección Empresa">
+                    </div>        
+                  </div>                      
+                  
+
+     </div>
+
+
+
+    }
+
+
+</div>
+                  
+
+<div class="col-12">
+    
+    <div class="row">
+        <p> </p>
+        <div class="col-md-6">
+            <button class="btn btn-primary float-start" type="submit">
+                SIGUIENTE
+            </button>
+        </div>
+
+        <div class="col-md-6">
+            <button class="btn btn-primary float-end" type="button" onclick="location.href='@Url.Action("VentaBoletoAsiento", "VentaBoleto")'">ANTERIOR</button>
+        </div>
+    </div>
+
+</div>
+</form>

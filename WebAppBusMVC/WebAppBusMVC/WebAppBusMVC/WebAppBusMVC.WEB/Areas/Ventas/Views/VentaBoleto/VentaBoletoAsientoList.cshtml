@@ -1,0 +1,79 @@
+﻿@using WebAppBusMVC.WEB.Models
+@{
+	var listAsientoProgramacion = ViewBag.ListaAsientoProgramacion as IEnumerable<OutProgramacionAsientoViewModel>;
+	var listAsientos = ViewBag.ListaAsientos as List<AsientoViewModel>;
+
+	Viaje viajeSession = Context.Session.GetObject<Viaje>("SESSIONVIAJE");
+
+	var clase = "btn btn - primary";
+
+}
+
+<table id="tbListadoAsiento" class="table table-striped">
+	<thead>
+		<tr>
+			<th>Asientos</th>
+			<th>Precio</th>			
+			<th>Piso</th>
+		</tr>
+	</thead>
+	<tbody>
+		@*@for (var i = 20; i <= 57; i += 4)*@
+		@foreach (var item in listAsientoProgramacion)
+		{
+			var asientosMarcadoP = listAsientos.Where(x => x.NumeroAsiento == item.NumeroAsientoP).FirstOrDefault();
+			var asientosMarcadoV = listAsientos.Where(x => x.NumeroAsiento == item.NumeroAsientoV).FirstOrDefault();
+
+			<tr>				
+				<td>
+					@if (item.IdNivel == 1)
+					{
+						clase = "btn btn-outline-primary";
+					}
+					else
+					{
+						clase = "btn btn-outline-success";
+					}
+
+
+					@if(asientosMarcadoP!=null){
+						<input type="checkbox" class="btn-check" name="check_@item.NumeroAsientoP" id="btn_@item.IdAsientoProgP" checked>
+					}
+					else {
+						<input type="checkbox" class="btn-check" name="check_@item.NumeroAsientoP" id="btn_@item.IdAsientoProgP" autocomplete="off">
+					}
+						<label class="@clase" data-toggle="tooltip" title="Precio: S/. @item.CostoAsientoP" for="btn_@item.IdAsientoProgP">@item.NumeroAsientoP</label>
+
+					<input type="hidden" id="CostoAsientoId" name="CostoAsiento_@item.NumeroAsientoP" value="@item.CostoAsientoP">
+
+					@if (item.IdAsientoProgV != 0)
+					{
+						@if (asientosMarcadoV != null)
+						{
+							<input type="checkbox" class="btn-check" name="check_@item.NumeroAsientoV" id="btn_@item.IdAsientoProgV" checked>
+						}
+						else{
+							<input type="checkbox" class="btn-check" name="check_@item.NumeroAsientoV" id="btn_@item.IdAsientoProgV">
+						}
+
+						<label class="@clase" data-toggle="tooltip" title="Precio: S/. @item.CostoAsientoV" for="btn_@item.IdAsientoProgV">@item.NumeroAsientoV</label>
+						<input type="hidden" id="CostoAsientoId" name="CostoAsiento_@item.NumeroAsientoV" value="@item.CostoAsientoV">
+					}
+				</td>
+			
+				<td>
+					<label>[S/. @item.CostoAsientoP]  </label>
+					@if (item.IdAsientoProgV != 0)
+					{
+						<label>[S/. @item.CostoAsientoV]</label>
+					}
+				</td>
+				<td>
+					<h4>PISO : @item.IdNivel</h4>
+				</td>
+
+			</tr>
+		}
+	</tbody>
+
+</table>

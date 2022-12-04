@@ -1,0 +1,63 @@
+﻿@using WebAppBusMVC.WEB.Models
+@{
+
+	Viaje viajeSession = Context.Session.GetObject<Viaje>("SESSIONVIAJE");
+
+}
+
+<form class="row g-3 needs-validation" method="post" action="@Url.Action("AñadirAsientos", "VentaBoleto",new {Area="Ventas"})">
+<div class="alert alert-primary">
+	<div class="row">
+		<div class="col-md-12">
+			<h3>INFORMACIÓN DE VIAJE</h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<h3>RUTA : [@viajeSession.NombreViajeIda - @viajeSession.NombreViajeRetorno]</h3>
+			<h3>FECHA : @viajeSession.FechaNombreIda - HORA: @viajeSession.horaIda</h3>
+		</div>
+
+	</div>
+
+</div>
+
+
+
+<div id="divListadoAsiento">
+
+</div>
+<div class="col-12">
+	<div class="row">
+		<div class="col-md-6">
+			<button class="btn btn-primary float-start" type="submit">SIGUIENTE</button>			
+		</div>
+
+		<div class="col-md-6">
+				<button class="btn btn-primary float-end" type="button" onclick="location.href='@Url.Action("VentaBoletoProgramacion", "VentaBoleto")'">
+				ANTERIOR
+			</button>
+		</div>
+	</div>
+
+</div>
+
+</form>
+
+<script>
+
+	CargaAsiento();
+	function CargaAsiento() {
+		$.ajax({
+			type: "GET",
+			url: '@Url.Action("VentaBoletoAsientoList","VentaBoleto",new {Area="Ventas"})',
+			cache: false,
+			success: function (dataHTML) {
+				$("#divListadoAsiento").html(dataHTML);	
+
+				}
+		});
+
+	}
+
+</script>
